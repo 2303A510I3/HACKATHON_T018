@@ -1,0 +1,7 @@
+TEAM-018
+Domain: Student Innovation
+Title: Smart Competency Diagnostic and Candidate Profile Score Calculator
+TEAM  MEMBERS
+Shashank.Y(2303a510I3)
+Varsitha.K(2303A51449)
+Hanishka.K(2303A51415)
